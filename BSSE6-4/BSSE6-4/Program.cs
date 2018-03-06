@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace BSSE6_4
 {
+    class student
+    {
+        int id;
+        string name;
+    }
     class stringfunctionality
     {
         public bool checkpalindrom(string input)
